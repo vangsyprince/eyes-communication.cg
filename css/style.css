@@ -9207,7 +9207,7 @@ img.lazy-image.loaded{
 	top: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(0,0,0,0.90);
+	background: rgba(31, 98, 171,0.90) ;
 }
 
 .page-banner .banner-inner{
